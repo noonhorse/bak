@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+知识图谱
 
-You can use the [editor on GitHub](https://github.com/noonhorse/noonhorse.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 计算机网络
 
-### Markdown
+设备会透过节点之间的连接（数据链路）互相交换数据。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C#%E5%88%86%E7%B1%BB
 
-```markdown
-Syntax highlighted code block
+## 网络连接
 
-# Header 1
-## Header 2
-### Header 3
+有线网络
 
-- Bulleted
-- List
+无线网络
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 网络协议
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noonhorse/noonhorse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 物联网协议
+CoAP
+MQTT
+TLS
+DTLS
+LoRaWAN
+[NB-IoT](2022/01/nb-iot.md)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# 操作系统
+
+
+
+
+# 软件
+
+[自定义全局变量设置](2022/01/global-shell-set.md)
