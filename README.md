@@ -7,26 +7,25 @@
 
 https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C#%E5%88%86%E7%B1%BB
 
-## 网络连接
+## 网络
 
-有线网络
+### 有线网络
+model、双绞线、光纤
 
-无线网络
+### 无线网络
 
-
-
-### 网络协议
-
+2/3/4G、5G、NB-IoT、LoRa
 
 
+### 协议
 
-### 物联网协议
-CoAP
-MQTT
-TLS
-DTLS
-LoRaWAN
-[NB-IoT](2022/01/nb-iot.md)
+- MQTT
+- TLS
+- DTLS
+- LoRaWAN
+- [NB-IoT](2022/01/nb-iot.md)
+- OneM2M
+- [LWM2M](2022/01/lwm2m.md)
 
 
 # 操作系统
