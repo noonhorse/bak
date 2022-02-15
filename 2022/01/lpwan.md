@@ -13,6 +13,12 @@ LE 蓝牙通信  ， 传输速度  2-3 Mbps
 蓝牙的网状网络解决方案：
 Nordic 公司 蓝牙 SoC 解决方案 （类似芯片：nRF51822[频率为 16 MHz的 32 位ARM Cortex-M0微控制器] 和 nRF52832 [32 位 ARM Cortex-M4F 微控制器，运行频率为 64 MHz,支持蓝牙5， 其他仅支持蓝牙4] ）, 更快处理器的解决方案是 Espressif ESP32[消耗的电流大约是 nRF52832 的 16 倍].
 
+### ESP32
+ ESP32 包括 WiFi、Bluetooth Classic、Bluetooth Low-Energy 和 240 MHz 微控制器，基于速度极快的双核 Tensilica LX6 微控制器。它实际上有两个可以单独控制的独立处理器内核。时钟频率可在 80 MHz 至 240 MHz 范围内调节，高达 16 MB 的 FLASH 存储器和 520 KB 的 RAM 存储器。讨论的所有其他 BLE 模块仅包括 32 到 512 KB 的 FLASH 和 8 到 128 KB 的 RAM。其他模块使用运行频率仅为 16 至 64 MHz 的微控制器。
+
+### 模组解决方案 (ESP-WROOM-32)
+基于 ESP32 SoC 的 Espressif 模块以 1k 为单位批量购买仅需 3.59 美元。当谈到最大的收益时，ESP-WROOM-32 模块确实是无与伦比的
+
 ## Zigbee
 Zigbee 是另一种短距离网络技术，在许多方面与蓝牙 LE 相似，但应用也很相似。它使用相同的 2.4 GHz 载波频率，功耗极低，工作范围相似，并提供网状网络。
 
