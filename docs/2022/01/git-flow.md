@@ -12,7 +12,7 @@
 GitHub Flow 是一个非常轻便的，基于分支的工作流，非常适合代码部署非常频繁的团队和项目。它最大优点就是简单，对于"持续发布"的产品是最合适的流程。
 它默认 master 的更新与产品的发布是一致的。
 
-![github-flow](../../2022/01/github-flow.png)
+![github-flow](../../../assets/img/2022/01/github-flow.png)
 
 ### 版本管理
 
@@ -54,7 +54,7 @@ GitLab Flow版本发布工作流适用于有明确的版本规划、并且需要
 
 GitLab Flow 提倡"上游优先"（upstream first）的缺陷修复原则，即bugfix先提交到主分支master，再从master cherry-pick到目标发布分支。
 
-![gitlab-flow-version](../../2022/01/gitlab-flow-version.png)
+![gitlab-flow-version](../../../assets/img/2022/01/gitlab-flow-version.png)
 
 ### 版本管理
 
@@ -94,7 +94,7 @@ GitLab Flow持续发布工作流一般适用于前端、后台持续/频繁发�
 在该工作流中，存在一个主分支 master，作为集成分支，并存在pre-production、production分支分别对应预发布环境和生产环境。
 GitLab Flow提倡"上游优先"（upstream first）原则，代码更新先提交到主分支master，再由"上游"向"下游"发展，逐步合入到pre-production和production。
 
-![gitlab-flow-continue](../../2022/01/gitlab-flow-continue.png)
+![gitlab-flow-continue](../../../assets/img/2022/01/gitlab-flow-continue.png)
 
 ### 版本管理
 
@@ -133,7 +133,7 @@ bugfix分支，分支名 `bugfix/*`，跟随版本。
 Git Flow 定义了一个围绕项目发布的严格分支模型，相对复杂，但它提供了一个健壮的用于管理大型项目的框架，非常适用于管理大型项目的发布和维护。
 它通过为功能开发、发布准备和项目维护分配独立的分支，让发布迭代过程更流畅。此模式通常是基于"版本发布"的，目标是一段时间以后产出一个新版本。
 
-![git-flow](../../2022/01/git-flow.png)
+![git-flow](../../../assets/img/2022/01/git-flow.png)
 
 ### 版本管理
 
