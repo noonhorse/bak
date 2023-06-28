@@ -8,4 +8,4 @@ CoAP约束应用协议（Constrained Application Protocol）是一种专用于�
 
 ## 参考
  [coap协议详解-知乎](https://zhuanlan.zhihu.com/p/242308137)
- [MQTT 协议](./mqtt.md)
+ [MQTT 协议](./mqtt)

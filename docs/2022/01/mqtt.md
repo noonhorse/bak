@@ -22,4 +22,4 @@ MQTT 模式按照 MQTT 标准，对 CoAP 的 Method 进行转义，只有简单�
 
 ## 文章参考
 [一文解决 CoAP 协议设备与外部网络沟通难题](https://www.emqx.com/zh/blog/connecting-coap-devices-to-emqx)
-[CoAp协议说明](./iot-co-ap-protocol.md)
+[CoAp协议说明](./iot-co-ap-protocol)

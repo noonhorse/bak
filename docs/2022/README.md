@@ -19,20 +19,20 @@ model、双绞线、光纤
 
 ### 无线网络
 
-[wireless概要](2022/01/wireless-network.md)
+[wireless概要](./01/wireless-network)
 2/3/4G、5G、NB-IoT、LoRa
 
 
 ### 协议
 
-- [CoAP](2022/01/iot-co-ap-protocol.md)
-- [MQTT](2022/01/mqtt.md)
+- [CoAP](./01/iot-co-ap-protocol)
+- [MQTT](./01/mqtt)
 - TLS
 - DTLS
 - LoRaWAN
-- [NB-IoT](2022/01/nb-iot.md)
+- [NB-IoT](./01/nb-iot)
 - OneM2M
-- [LWM2M](2022/01/lwm2m.md)
+- [LWM2M](./01/lwm2m)
 
 
 # 操作系统
@@ -42,4 +42,4 @@ model、双绞线、光纤
 
 # 软件
 
-[自定义全局变量设置](2022/01/global-shell-set.md)
+[自定义全局变量设置](./01/global-shell-set)
