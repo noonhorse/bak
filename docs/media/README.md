@@ -4,9 +4,10 @@
 
 <div align="center"><img src="../../assets/img/media/base-flow.png" width="800px"></div>
 
-- [音视频基础信息](./base-meida-info)
+### 本仓资料库
+- [音视频基础信息](./base-meida-info.md)
 
-## 资料库
+## 外部资料库
 [音视频流媒体资料库](https://github.com/0voice/audio_video_streaming)
 
 ## 在线教程

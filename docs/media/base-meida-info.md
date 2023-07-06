@@ -48,8 +48,11 @@ ADIF: Audio Data Interchange Format 音频数据交换格式，特征是解码�
 YUV、RGB、PCM(音频)
 
 ### 编码格式
-[H.264(AVC)](./h264)、H.265/HEVC、H.266/VVC
-[AAC](./aac)、Opus
+[H.264(AVC)](./h264.md)
+H.265/HEVC
+H.266/VVC
+[AAC](./aac.md)
+Opus
 
 ### 封装格式
 
