@@ -29,6 +29,7 @@ Array lenght: 7; Array First index: 0 , value: 15;
 
 
 ## 复杂度
+
 ### 1、时间复杂度
 算法的渐进时间复杂度 `T(n) = O(f(n))`
 
@@ -53,28 +54,47 @@ for(let i =0; i<n; i++) {
 
 
 ### 2、空间复杂度
+空间增长的趋势， `O(1)`, `O(n)`, `O(n^2)`
+
+#### O(1)
+```
+int x = 0;
+x++;
+```
+
+#### O(n)
+取决于 array 的大小
+
+```
+var arr = new Array(n);
+for(let i =0; i< n; i++) { arr[i] == i; }
+```
+
+#### O(n^2)/
+
+二维数组， m行n列数组 O(mn)
 
 ### 3、复杂度量级分析
 
 ![复杂度](../../assets/img/algorithms/alg-fzd-tu.png)
 
-### O(1)示例
+#### O(1)示例
 
 `int i =2; int b = 5 + i;`
 
-### O(n)
+#### O(n)
 
 `for(let i =0; i<n; i++) { x++; }`
 
 
-### O(logN)
+#### O(logN)
 
 ```js
 int i =1;
 while(i<n) { i = i*2; }
 ```
 
-### O(nlogN)
+#### O(nlogN)
 ```js
 for(let i =0; i<n; i++) { x++; 
     int x =1;
@@ -82,7 +102,7 @@ for(let i =0; i<n; i++) { x++;
 }
 ```
 
-### O(n^2)
+#### O(n^2)
 ```js
 for(let i =0; i<n; i++) { 
     for(let k = 0; k< n; k++) {
@@ -91,6 +111,6 @@ for(let i =0; i<n; i++) {
  }
  // 如果内层循环n =m, 则表示为 O(nm)
 ```
-### 其他区间
+#### 其他区间
 
 ![区间](../../assets/img/algorithms/alg-fzd-qj.png)

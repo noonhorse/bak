@@ -31,6 +31,8 @@ var search = function(nums, target) {
     return -1;
 };
 ```
+n/2，n/4，n/8.... n/2^k => 2^k = n  => k = logN 
+`时间复杂的：k= logN， 空间复杂度：`
 
 解析：
 1、从数组中间元素开始查找，如果 middle的🈯️ 等于 target直接返回，

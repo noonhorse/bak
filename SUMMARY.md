@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [算法](docs/algorithms/README.md)
    
 * [音视频](docs/media/README.md)
