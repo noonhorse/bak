@@ -30,6 +30,7 @@
 
 ## Computer graphics 计算机图形
 
+## Computer Media 计算机音视频
 ## Human–computer interaction 人机交互
 
 ## Scientific computing 科学运算
