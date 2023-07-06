@@ -31,10 +31,12 @@
 ## Computer graphics 计算机图形
 
 ## Computer Media 计算机音视频
+- [音视频](./docs/media/README)
 ## Human–computer interaction 人机交互
 
 ## Scientific computing 科学运算
 
 ### Internet of things 物联网
-[IOT知识库](./docs/2022/README.md)
+
+- [IOT知识库](./docs/2022/README.md)
 
