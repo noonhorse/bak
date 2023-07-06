@@ -3,5 +3,6 @@
 title: 计算机科学
 longtitle: 打造计算机领域内知识图谱
 remote_theme: sighingnow/jekyll-gitbook
+syntax_highlighter_style: colorful
 toc:
     enabled: true
