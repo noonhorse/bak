@@ -1,9 +1,21 @@
+# 计算机专业知识库
+## 相关课程内容
 
-## 数学基础 (Mathematical foundations)
+| 课程 | 内容 | 专业|
+|:---|:----|:-----|
+| 数学| 高等数学、线性代数、离线数学、概率论、微积分 | 必修  |
+| 计算机原理 | 计算机组成原理 | 必修  |
+| 算法设计与分析 | 算法导论、计算推理、复杂度分析 | 必修  |
+| 操作系统 | 操作系统 | 必修  |
+| 编译器 |  | 选修  |
+| 计算机网络| 计算机网络、架构与协议 | 必修  |
+| 数据结构 |  | 必修  |
+| 数据管理与数据系统 | 数据库系统、数据库与信息管理 | 必修  |
+| 软件工程 |  软件工程、软件构件原理、面向对象系统设计 | 必修  |
+| 编程语言 |  c、c++、python、编程方法、函数式编程 | 选修  |
 
-## 计算机理论 (Theory of computation)
 
-## Algorithms, data structures 算法与数据结构
+
 ### 算法
  - 数据结构
   链表、队列、栈、堆、哈希、二叉树
@@ -14,30 +26,21 @@
     基本 DFS、基本 BFS、DFS 记忆化搜索、IDA*、BFS 扩展（双向广搜、优先队列、双端队列）、剪枝、爬山算法、随机增量法、模拟退火
  - 高阶结构
  - 
-## Programming languages, compilers 编程语言，编译器
 
-## Concurrent, parallel, distributed systems 并行，分布式计算系统
+### 计算机网络
 
-## Software engineering 软件工程
+- [wireless概要](./docs/2022/01/wireless-network.md)
+- 2/3/4G、5G、NB-IoT、LoRa
 
-## System architecture 计算机系统架构
-
-## Telecommunication, networking 通讯与网络
-
-## Databases 数据库
-
-## Artificial intelligence 人工智能
-
-## Computer graphics 计算机图形
-
-## Computer Media 计算机音视频
+### 音视频与图形学
 
 - [音视频](./docs/media/README.md)
-## Human–computer interaction 人机交互
+### 物联网
 
-## Scientific computing 科学运算
+- [IOT知识库](./docs/2022/README.md)
 
-### Internet of things 物联网
+### 资料库
+- [技术面试知识库 https://www.cyc2018.xyz](https://www.cyc2018.xyz)
+- [计算机专业大学课程导引](https://hackway.org/docs/cs/intro)
 
-- [IOT知识库](./docs/2022/)
-
+### 如何贡献
