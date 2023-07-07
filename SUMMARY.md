@@ -237,9 +237,9 @@
 
 ## 计算机网络
 
-* [TCP/IP](/docs/computer-networks/tcpip.md)
-* [HTTP](/docs/computer-networks/http.md)
-* [HTTPS](/docs/computer-networks/https.md)
+* [TCP/IP](/docs/networks/tcpip.md)
+* [HTTP](/docs/networks/http.md)
+* [HTTPS](/docs/networks/https.md)
 
 ## 操作系统
 
