@@ -17,55 +17,55 @@
 
 ## 数据结构
 
-* [线性表](/data-structure/linear-list.md)
-* [栈和队](/data-structure/stack-queue.md)
-* [树](/data-structure/tree.md)
-* [图](/data-structure/graph.md)
-* [散列查找](/data-structure/hash.md)
-* [排序](/data-structure/sort.md)
-* [海量数据处理](/data-structure/mass_data_processing.md)
+* [线性表](/docs/data-structure/linear-list.md)
+* [栈和队](/docs/data-structure/stack-queue.md)
+* [树](/docs/data-structure/tree.md)
+* [图](/docs/data-structure/graph.md)
+* [散列查找](/docs/data-structure/hash.md)
+* [排序](/docs/data-structure/sort.md)
+* [海量数据处理](/docs/data-structure/mass_data_processing.md)
 
 ## 算法
 
-* [剑指offer](/algorithm/For-offer.md)
-* [LeetCode](/algorithm/leetcode.md)
+* [剑指offer](/docs/algorithm/For-offer.md)
+* [LeetCode](/docs/algorithm/leetcode.md)
 
 ## 编程语言
 ### Java
 
-* [Java基础](/java/basis.md)
-* [Java并发](/java/concurrence.md)
-* [Java虚拟机](/java/virtual-machine.md)
+* [Java基础](/docs/language/java/basis.md)
+* [Java并发](/docs/language/java/concurrence.md)
+* [Java虚拟机](/docs/language/java/virtual-machine.md)
 
 ### Android
 
-* [Android基础](/android/basis.md)
-* [Android进阶](/android/advance.md)
-* [开源框架](/android/open-source-framework.md)
+* [Android基础](/docs/language/android/basis.md)
+* [Android进阶](/docs/language/android/advance.md)
+* [开源框架](/docs/language/android/open-source-framework.md)
 
 
 ## 设计模式
 
-* [创建型模式](/design-mode/Builder-Pattern.md)
-* [结构型模式](/design-mode/Structural-Patterns.md)
-* [行为型模式](/design-mode/Behavioral-Pattern.md)
+* [创建型模式](/docs/design-mode/Builder-Pattern.md)
+* [结构型模式](/docs/design-mode/Structural-Patterns.md)
+* [行为型模式](/docs/design-mode/Behavioral-Pattern.md)
 
 ## 计算机网络
 
-* [TCP/IP](/computer-networks/tcpip.md)
-* [HTTP](/computer-networks/http.md)
-* [HTTPS](/computer-networks/https.md)
+* [TCP/IP](/docs/networks/tcpip.md)
+* [HTTP](/docs/networks/http.md)
+* [HTTPS](/docs/networks/https.md)
 * [wireless](/docs/2022/01/wireless-network.md)
 
 ## 操作系统
 
-- [概述](/operating-system/summarize.md)
-- [进程与线程](/operating-system/process-thread.md)
-- [内存管理](/operating-system/memory-management.md)
+- [概述](/docs/operating-system/summarize.md)
+- [进程与线程](/docs/operating-system/process-thread.md)
+- [内存管理](/docs/operating-system/memory-management.md)
 
 ## 数据库
 
-- [SQL语句](/sql/SQL.md)
+- [SQL语句](/docs/sql/SQL.md)
 
 ## 音视频与图形学
 
