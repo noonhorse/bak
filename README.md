@@ -1,4 +1,5 @@
 # 计算机专业知识库
+
 ## 相关课程内容
 
 | 课程 | 内容 | 专业|
@@ -14,34 +15,86 @@
 | 软件工程 |  软件工程、软件构件原理、面向对象系统设计 | 必修  |
 | 编程语言 |  c、c++、python、编程方法、函数式编程 | 选修  |
 
+## 数据结构
+
+* [线性表](/data-structure/linear-list.md)
+* [栈和队](/data-structure/stack-queue.md)
+* [树](/data-structure/tree.md)
+* [图](/data-structure/graph.md)
+* [散列查找](/data-structure/hash.md)
+* [排序](/data-structure/sort.md)
+* [海量数据处理](/data-structure/mass_data_processing.md)
+
+## 算法
+
+* [剑指offer](/algorithm/For-offer.md)
+* [LeetCode](/algorithm/leetcode.md)
+
+## 编程语言
+### Java
+
+* [Java基础](/java/basis.md)
+* [Java并发](/java/concurrence.md)
+* [Java虚拟机](/java/virtual-machine.md)
+
+### Android
+
+* [Android基础](/android/basis.md)
+* [Android进阶](/android/advance.md)
+* [开源框架](/android/open-source-framework.md)
 
 
-### 算法
- - 数据结构
-  链表、队列、栈、堆、哈希、二叉树
- - 基础算法
-    打表、枚举、倍增、离散化、差分、排序（冒泡排序、交换排序、快速排序、归并排序、基尔排序）
-    分治法、贪心法（Huffman 编码）、尺取法、二分法、三分法、整体二分、ST 算法
- - 搜索算法
-    基本 DFS、基本 BFS、DFS 记忆化搜索、IDA*、BFS 扩展（双向广搜、优先队列、双端队列）、剪枝、爬山算法、随机增量法、模拟退火
- - 高阶结构
- - 
+## 设计模式
 
-### 计算机网络
+* [创建型模式](/design-mode/Builder-Pattern.md)
+* [结构型模式](/design-mode/Structural-Patterns.md)
+* [行为型模式](/design-mode/Behavioral-Pattern.md)
 
-- [wireless概要](./docs/2022/01/wireless-network.md)
-- 2/3/4G、5G、NB-IoT、LoRa
+## 计算机网络
 
-### 音视频与图形学
+* [TCP/IP](/computer-networks/tcpip.md)
+* [HTTP](/computer-networks/http.md)
+* [HTTPS](/computer-networks/https.md)
+* [wireless](/docs/2022/01/wireless-network.md)
 
-- [音视频](./docs/media/README.md)
-### 物联网
+## 操作系统
 
-- [IOT知识库](./docs/2022/README.md)
+- [概述](/operating-system/summarize.md)
+- [进程与线程](/operating-system/process-thread.md)
+- [内存管理](/operating-system/memory-management.md)
+
+## 数据库
+
+- [SQL语句](/sql/SQL.md)
+
+## 音视频与图形学
+
+- [音视频](/docs/media/README.md)
+
+## 物联网
+
+- [IOT知识库](/docs/2022/README.md)
+
+## 致谢
+
+| 贡献者       | 贡献内容     | | 贡献者    | 贡献内容                       |
+| ------------ | ----------- |:--| ------ | -------------------------- |
+| YiKun        | Java集合      | | Zane   | AbstractQueuedSynchronizer |
+| DERRANTCM    | 剑指offer     | | 占小狼    | ConcurrentHashMap          |
+| skywang12345 | 数据结构      | | IAM四十二 | Android动画总结                |
+| Carson_Ho    | Android基础   | | me115  | 图解设计模式                     |
+| Piasy        | Android开源框架 | | 朱祁林    | https原理解析                  |
+| stormzhang   | Android全局异常 | | Trinea | Parcelable和Serializable    |
+| AriaLyy   | 多线程断点续传      | | JackieYeah | Java深拷贝和浅拷贝                  |
+| ZHANG_L   | Android进程优先级   | | 尹star      | Android Context详解            |
+| HELLO丶GUY | Fragment详解      | | Shawon     | Android推送技术                  |
+| 徐凯强Andy   | 动态规划          | | aaronice   | LeetCode/LintCode题解          |
+| 码农一枚      | BlockingQueue   | | Alexia     | Java transien和finally return |
+| 朔野        | Android Apk安装过程 | | 黑泥卡        | Dialog和PopupWindow           |
+
+持续更新，仍有更多内容尚未完善，欢迎大家投稿。
 
 ### 资料库
 - [技术面试知识库 https://www.cyc2018.xyz](https://www.cyc2018.xyz)
 - [计算机专业大学课程导引](https://hackway.org/docs/cs/intro)
-- [Android面试指南](https://lrh1993.gitbooks.io/android_interview_guide/content/)
-- 
-### 如何贡献
+- [Android校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/content/)
