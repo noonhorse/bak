@@ -31,17 +31,14 @@
 * [LeetCode](/docs/algorithm/leetcode.md)
 
 ## 编程语言
-### Java
-
-* [Java基础](/docs/language/java/basis.md)
-* [Java并发](/docs/language/java/concurrence.md)
-* [Java虚拟机](/docs/language/java/virtual-machine.md)
-
-### Android
-
-* [Android基础](/docs/language/android/basis.md)
-* [Android进阶](/docs/language/android/advance.md)
-* [开源框架](/docs/language/android/open-source-framework.md)
+* Java
+  * [Java基础](/docs/language/java/basis.md)
+  * [Java并发](/docs/language/java/concurrence.md)
+  * [Java虚拟机](/docs/language/java/virtual-machine.md)
+* Android
+  * [Android基础](/docs/language/android/basis.md)
+  * [Android进阶](/docs/language/android/advance.md)
+  * [开源框架](/docs/language/android/open-source-framework.md)
 
 
 ## 设计模式
@@ -98,3 +95,4 @@
 - [技术面试知识库 https://www.cyc2018.xyz](https://www.cyc2018.xyz)
 - [计算机专业大学课程导引](https://hackway.org/docs/cs/intro)
 - [Android校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/content/)
+- [算法通关之路](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)

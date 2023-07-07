@@ -1,0 +1,35 @@
+{
+  "name": "cs-knowledge",
+  "version": "1.0.0",
+  "description": "## 相关课程内容",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./docs ./gh-pages",
+    "build": "gitbook build ./docs ./gh-pages",
+    "deploy": "node ./scripts/deploy.js",
+    "publish": "npm run build&&npm run deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noonhorse/noonhorse.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noonhorse/noonhorse.github.io/issues"
+  },
+  "homepage": "https://github.com/noonhorse/noonhorse.github.io#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "gitbook-cli": "^2.3.2",
+    "graceful-fs": "^4.2.4",
+    "immutable": "^4.3.0"
+  },
+  "resolutions": {
+    "graceful-fs": "4.2.4"
+  }
+}
