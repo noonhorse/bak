@@ -42,5 +42,6 @@
 ### 资料库
 - [技术面试知识库 https://www.cyc2018.xyz](https://www.cyc2018.xyz)
 - [计算机专业大学课程导引](https://hackway.org/docs/cs/intro)
-
+- [Android面试指南](https://lrh1993.gitbooks.io/android_interview_guide/content/)
+- 
 ### 如何贡献
